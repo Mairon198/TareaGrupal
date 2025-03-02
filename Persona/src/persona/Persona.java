@@ -38,7 +38,9 @@ class Persona {
     }
     
     public void mostrarInformacion() {
-        System.out.println("Nombre: " + nombre + ", Edad: " + edad + ", DNI: " + dni);
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Edad: "+ edad);
+        System.out.println("DNI: " + dni);
     }
     
  public static void main(String[] args) {
