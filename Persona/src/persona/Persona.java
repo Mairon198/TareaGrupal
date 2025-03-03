@@ -1,3 +1,4 @@
+import com.mycompany.doctor.Doctor;
 package persona;
 
 import java.util.Scanner;
